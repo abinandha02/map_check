@@ -4,3 +4,4 @@ dash-html-components
 dash-renderer
 plotly
 pandas
+gunicorn
